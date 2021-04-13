@@ -7,12 +7,12 @@
         <item>
             <title>Application 0.0.3</title>
             <pubDate>Wed, 07 Apr 2021 13:50:10 -07:00</pubDate>
-            <enclosure url="https://github.com/jeremyosterhoudt/OutilCast/releases/download/0.0.1/SQL.Client" sparkle:version="0.0.5" sparkle:shortVersionString="5.0" length="87048883" sparkle:os="windows" type="application/octet-stream" sparkle:signature="w6bYJ4GyVbRG+Viz09TZGHN2wIORYK81e1iz0OfJR7SVXdmv2jFTF8hesG9whl15TIQ8xsgQvRj3eQmKgIGYAg==" />
+            <enclosure url="https://github.com/jeremyosterhoudt/OutilCast/releases/download/0.0.1/SQL.Client" sparkle:version="0.0.6" sparkle:shortVersionString="5.0" length="87048883" sparkle:os="windows" type="application/octet-stream" sparkle:signature="w6bYJ4GyVbRG+Viz09TZGHN2wIORYK81e1iz0OfJR7SVXdmv2jFTF8hesG9whl15TIQ8xsgQvRj3eQmKgIGYAg==" />
         </item>
         <item>
             <title>Application 0.0.3</title>
             <pubDate>Wed, 07 Apr 2021 13:50:10 -07:00</pubDate>
-            <enclosure url="https://github.com/jeremyosterhoudt/OutilCast/releases/download/0.0.1/SQL.Client" sparkle:version="0.0.5" sparkle:shortVersionString="5.0" length="87048883" sparkle:os="macos" type="application/octet-stream" sparkle:signature="w6bYJ4GyVbRG+Viz09TZGHN2wIORYK81e1iz0OfJR7SVXdmv2jFTF8hesG9whl15TIQ8xsgQvRj3eQmKgIGYAg==" />
+            <enclosure url="https://github.com/jeremyosterhoudt/OutilCast/releases/download/0.0.1/SQL.Client" sparkle:version="0.0.6" sparkle:shortVersionString="5.0" length="87048883" sparkle:os="macos" type="application/octet-stream" sparkle:signature="w6bYJ4GyVbRG+Viz09TZGHN2wIORYK81e1iz0OfJR7SVXdmv2jFTF8hesG9whl15TIQ8xsgQvRj3eQmKgIGYAg==" />
         </item>
     </channel>
 </rss>
